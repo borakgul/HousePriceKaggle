@@ -1,6 +1,3 @@
-# Python script to generate README.md file
-
-readme_content = """
 # House Price Prediction
 
 ## Project Overview
